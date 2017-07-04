@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="liveServer"
+  id="myeclipse.1496905190985"
+  context-root="/liveServer"
+  j2ee-spec="5.0"
+  archive="liveServer.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
